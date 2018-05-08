@@ -1,7 +1,7 @@
 //
 // A golang library for interfacing with Databox APIs.
 //
-// Install using go get github.com/me-box/lib-go-databox
+// Install using go get github.com/tsh2/lib-go-databox
 //
 // Examples can be found in the samples directory
 //
