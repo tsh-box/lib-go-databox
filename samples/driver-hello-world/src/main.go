@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	databox "github.com/toshbrown/lib-go-databox"
+	databox "github.com/tsh2/lib-go-databox"
 )
 
 var storeEndPoint = os.Getenv("DATABOX_ZMQ_ENDPOINT")
