@@ -14,10 +14,10 @@
 		"nodejs"
 	],
 
-	"homepage": "https://github.com/me-box/lib-node-databox",
+	"homepage": "https://github.com/tsh2/lib-node-databox",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/me-box/lib-node-databox"
+		"url": "git+https://github.com/tsh2/lib-node-databox"
 	},
 
 	"packages": [

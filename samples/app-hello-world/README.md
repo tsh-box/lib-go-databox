@@ -6,7 +6,7 @@ An example Databox app in go
 
 Clone the git repo into the databox root directory 
 
-     git clone https://github.com/me-box/lib-go-databox.git
+     git clone https://github.com/tsh2/lib-go-databox.git
 
 Run the following commands in a terminal 
 
