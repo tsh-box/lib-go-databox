@@ -15,10 +15,10 @@
 		"golang"
 	],
 
-	"homepage": "https://github.com/me-box/lib-go-databox",
+	"homepage": "https://github.com/tsh2/lib-go-databox",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/me-box/lib-go-databox"
+		"url": "git+https://github.com/tsh2/lib-go-databox"
 	},
 
 	"resource-requirements": {
